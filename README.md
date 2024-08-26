@@ -5,4 +5,4 @@
 [Тестовый прогон: регистрация, авторизация и каталог]
 (https://github.com/Burlaka27/docs/commit/bccdd382b756264012c3ab458ba75ed7cd073622)
 [Отчеты о дефекте для регистрации, авторизации и каталога]
-(https://github.com/Burlaka27/docs/commit/21463dbabc5cf50b4855fe31d2ed6594f10a6aa3)
+(https://github.com/Burlaka27/docs/commit/08f51994d71e84ebe48ac323d845ee55f6bbb25f)
