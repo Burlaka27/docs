@@ -3,6 +3,6 @@
 [Тест-кейсы на основании проверок из чек-листа для регистрации, авторизации и каталога]
 (https://github.com/Burlaka27/docs/commit/4e023b540a9612eafd0ec107a9e66829f8deb640)
 [Тестовый прогон: регистрация, авторизация и каталог]
-(https://github.com/Burlaka27/docs/commit/5089f17c52ac78b527d80eff77b3127c14a15467)
+(https://github.com/Burlaka27/docs/commit/bccdd382b756264012c3ab458ba75ed7cd073622)
 [Отчеты о дефекте для регистрации, авторизации и каталога]
 (https://github.com/Burlaka27/docs/commit/21463dbabc5cf50b4855fe31d2ed6594f10a6aa3)
